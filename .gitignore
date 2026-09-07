@@ -7,13 +7,8 @@ out/
 __pycache__/
 venv/
 .venv/
-.DS_Storenode_modules/
-.next/
-out/
-.env
-.env.*
-!.env.example
-__pycache__/
-venv/
-.venv/
 .DS_Store
+
+# Local workspace copies; the repository source lives under Adaptiq.ai/.
+/backend/
+/frontend/
